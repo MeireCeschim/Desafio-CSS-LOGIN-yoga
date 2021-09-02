@@ -1,30 +1,52 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="../yoga-interface/assets/full-stack.png">
-    <link rel="stylesheet" href="./styles.css">
-    <link rel = "preconnect" href = "https://fonts.googleapis.com">
-    <link rel = "preconnect" href = "https://fonts.gstatic.com" crossorigin>
-    <link href = "https: //fonts.googleapis.com/css2? family = Roboto: wght @ 400; 500 & display = swap "rel =" stylesheet">
-    <title>Yoga-Interface</title>
-</head>
+# `Yoga-Interface`
 
-<body>
-   
-    <div>
-        <h1>Login</h1>
-        <h2>Enter your email address and password to acess your account</h2>
-        <input type="email" name="personal-email" placeholder="Email">
-        <input class="input-password"type="password" name="personal-password" placeholder="Password">
-        <a class="forgot-password" href="">Forgot Password?</a>
-        <button type="button">Login</button>
-        <a class="link-signup" href="">Don't have an account? <strong>Sign Up</strong></a>
+<code><img height="70" align="right" src="./assets/codeclub.jpeg"></code>
 
-    </div>
+
+<br><br>
+<p align="right">Projeto do Curso CodeClub</p> 
+<p align='right'>Trainer/Founder: <i>Rodolfo Mori</I></p>
+<p>
+<a href="https://www.instagram.com/dolfo.mori">
+<img align="right" alt="icone do instagram uma camera dentro de um quadrado" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.linkedin.com/in/rodolfomori/">
+<img align="right" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+</p>
+
+<img src="./assets/yoga - login.PNG" alt="imagem  pagina login"> <br>
+
+
+#
+
+
+<p align="right"><b>>>>>>By<<<<<</b></p>
+<table align="right">
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/89756578?s=400&u=3fe7c1530d59282b03143899373eeeb5f1dc3953&v=4" width="100px;" alt="Foto da Meire Ceschim no GitHub"/><br>
+        <sub>
+          <b>MeireCeschim</b>
+        </sub>
+      </a>
+  </tr>
+</table>
     
-</body>
-</html>
+
+`Tarefas executadas:`
+- [x] Criação HTML
+- [x] Estilo em CSS
+
+
+
+`PROJETO EM CONSTRUÇÃO`
+
+#
+
+
+<p align="right"><b>❤TECHNOLOGY❤</b></p>
+
+[⬆ Voltar ao topo](#yoga-interface1)<br>
  
