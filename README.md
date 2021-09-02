@@ -35,18 +35,19 @@
 </table>
     
 
-`Tarefas executadas:`
+📌 `Tarefas executadas:`
 - [x] Criação HTML
 - [x] Estilo em CSS
+<br>
 
 
 
-`PROJETO EM CONSTRUÇÃO`
+⚠ `PROJETO EM CONSTRUÇÃO`
 
 #
 
 
-<p align="right"><b>❤TECHNOLOGY❤</b></p>
+<p align="right"><b>❤TECHNOLOGY❤</b></p><br>
 
-[⬆ Voltar ao topo](#yoga-interface1)<br>
+
  
